@@ -1,11 +1,8 @@
 [caps]
 platformName = "Android"
-app = "app/appiumproject.apk"
-deviceName = "emulator-5554"
-browserName = ""
-platformVersion = "7.0"
-noReset =  false
-fullReset = true
+platformVersion = "8.0"
+app = "app/VodQA.apk"
+deviceName = "Android Emulator"
 
 [appium_lib]
 sauce_username = ""
