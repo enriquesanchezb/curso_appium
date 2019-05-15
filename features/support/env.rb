@@ -6,7 +6,7 @@ require 'byebug'
 Before do
   caps = {}
   caps["platformName"] = "Android"
-  caps["app"] = "/Users/enriquesanchez/workspace/personal/curso_appium/app/appiumproject.apk"
+  caps["app"] = "app/appiumproject.apk"
   caps["deviceName"] = "emulator-5554"
   caps["platformVersion"] = "8.0"
   opts = {

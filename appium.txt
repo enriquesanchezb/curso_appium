@@ -1,9 +1,0 @@
-[caps]
-platformName = "Android"
-platformVersion = "8.0"
-app = "app/VodQA.apk"
-deviceName = "Android Emulator"
-
-[appium_lib]
-sauce_username = ""
-sauce_access_key = ""
